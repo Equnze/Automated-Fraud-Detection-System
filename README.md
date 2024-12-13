@@ -1,11 +1,6 @@
 # Automated Fraud Detection System 
 
 
-![gifgit](https://user-images.githubusercontent.com/88341388/226695241-221b3a90-33fc-4635-a935-5e92da4a7080.gif)
-
-
-
-
 ### Background: 
 With the rise of e-commerce and online transactions, fraudulent activities have also increased. Fraudulent activities not only cause financial losses but also lead to a loss of reputation for businesses. Therefore, it is essential to have an automated system in place that can detect fraud in real-time.
 
